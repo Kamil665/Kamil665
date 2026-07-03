@@ -25,6 +25,10 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Pascal](https://img.shields.io/badge/-Pascal-E3A300?style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
