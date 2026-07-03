@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
-<h3 align="center">Backend / Full Stack Developer from Poland 🇵🇱</h3>
+<h3 align="center">Backend / Full Stack Developer from Russia</h3>
 
 <p align="center">
   Passionate about building reliable applications, automation, APIs, and modern web technologies.
