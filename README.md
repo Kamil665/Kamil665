@@ -89,8 +89,7 @@ Short description of your project.
 ## 📫 Contact
 
 - GitHub: https://github.com/Kamil665
-- Email: your@email.com
-- LinkedIn: https://linkedin.com/in/your-profile
+- Email: pochtung@gmail.com
 
 ---
 
